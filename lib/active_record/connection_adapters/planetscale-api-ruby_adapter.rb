@@ -1,5 +1,0 @@
-require 'active_record'
-require 'active_record/connection_adapters/planetscale-api-ruby/version'
-require 'active_record/connection_adapters/planetscale-api-ruby/client'
-require 'active_record/connection_adapters/planetscale-api-ruby/abstract'
-require 'active_record/connection_adapters/planetscale-api-ruby/mysql2'

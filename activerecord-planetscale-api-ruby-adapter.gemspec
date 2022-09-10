@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "active_record/connection_adapters/planetscale-api-ruby/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "planetscale-api-ruby"
+  spec.name          = "activerecord-planetscale-api-ruby-adapter"
   spec.version       = ActiveRecord::ConnectionAdapters::PlanetscaleApiRuby::VERSION
   spec.authors       = ["David Plappert"]
   spec.email         = ["david@phonelivestreaming.com"]
