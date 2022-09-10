@@ -1,1 +1,1 @@
-require 'active_record/connection_adapters/planetscale-api-ruby'
+require 'active_record/connection_adapters/planetscale-api-ruby_adapter'
