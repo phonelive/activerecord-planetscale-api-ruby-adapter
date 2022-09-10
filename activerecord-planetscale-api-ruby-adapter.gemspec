@@ -1,6 +1,6 @@
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "active_record/connection_adapters/planetscale-api-ruby/version"
+require "active_record/connection_adapters/planetscale_api_ruby/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "activerecord-planetscale-api-ruby-adapter"
